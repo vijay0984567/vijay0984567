@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay0984567&label=Profile%20views&color=0e75b6&style=flat" alt="vijay0984567" /> </p>
 
-- 🔭 I’m currently working on a project [Crypto Tracker](https://github.com/vijay0984567/react-crypto-tracker)
-
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijay0984567](https://github.com/vijay0984567)
