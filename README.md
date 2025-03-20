@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay0984567&label=Profile%20views&color=0e75b6&style=flat" alt="vijay0984567" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 👑 Co-founder & Manager of **HaveItBuddy**(Academic Supplies Marketplace).
 
 - 👨‍💻 All of my projects are available at [https://github.com/vijay0984567](https://github.com/vijay0984567)
 
-- 💬 Ask me about **coding, react**
+- 💬 Ask me about **Coding, Development, AI/ML**
 
 - 📫 How to reach me **vijaykumar0984567@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dAbzh4VZYeRphhKvWRjlJXAwlouW7Vm-/view?usp=sharing](https://drive.google.com/file/d/1dAbzh4VZYeRphhKvWRjlJXAwlouW7Vm-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/181QPmMXxMWReRzGgfxP2WPisiZXcLaP3/view?usp=sharing](https://drive.google.com/file/d/181QPmMXxMWReRzGgfxP2WPisiZXcLaP3/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny😅**
 
