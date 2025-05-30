@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vijaykumar0984567@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/181QPmMXxMWReRzGgfxP2WPisiZXcLaP3/view?usp=sharing](https://drive.google.com/file/d/181QPmMXxMWReRzGgfxP2WPisiZXcLaP3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KO_yzUqFA-9M9JXPiBFyPK2drJ3CYXq0/view?usp=drive_link](https://drive.google.com/file/d/1KO_yzUqFA-9M9JXPiBFyPK2drJ3CYXq0/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny😅**
 
